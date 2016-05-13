@@ -16,10 +16,19 @@
 			"js/background.js"
 		]
 	},
+	"content_scripts": [
+		{
+			"matches": [
+				"*://www.youtube.com/watch?*"
+			],
+			"css": [
+				"css/expand.css"
+			]
+		}
+	],
 	"permissions": [
 		"tabs",
-		"http://www.youtube.com/watch?*",
-		"https;//www.youtube.com/watch?*"
+		"*://www.youtube.com/watch?*"
 	],
 	"manifest_version": 2
 }
