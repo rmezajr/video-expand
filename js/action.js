@@ -1,5 +1,5 @@
 function youtube() {
-	if(body.classList.contains("youtube") && body.classList.contains("expand") {
+	if(body.classList.contains("youtube") && body.classList.contains("expand")) {
 		body.classList.remove("youtube");
 		body.classList.remove("expand");
 	} else {
@@ -8,6 +8,6 @@ function youtube() {
 	}
 }
 
-if(document.URL.indexOf("://www.youtube.com/watch?" > -1) {
+if(document.URL.indexOf("://www.youtube.com/watch?" > -1)) {
 	youtube();
 }
