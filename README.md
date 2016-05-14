@@ -8,24 +8,24 @@ Video Expand is a Chrome Extension that will expand videos to fill your browser 
 
 ## Installing
 
-Go to [http://chrome.google.com/webstore/detail/video-expand/nipckkeelhekmngnbhhdkakjjlfkilpc](https://chrome.google.com/webstore/detail/video-expand/nipckkeelhekmngnbhhdkakjjlfkilpc) to download the release version.
+Go to [http://chrome.google.com/webstore/detail/video-expand/](https://chrome.google.com/webstore/detail/video-expand/nipckkeelhekmngnbhhdkakjjlfkilpc) to download the release version.
 
 To access development releases, simply download or clone this code and load as an unpacked extension.
 
-Source Code: [github.com/rmezajr/video-expand](github.com/rmezajr/video-expand)
+Source Code: [://github.com/rmezajr/video-expand](github.com/rmezajr/video-expand)
 
 ## Install from Source
 
 - Download the code, e.g. `git clone git://github.com/rmezajr/video-expand.git`
-- Open [chrome://extensions/](chrome://extensions/)
+- Open `chrome://extensions/`
 - Enable developer mode
 - Click `Load unpacked extension...`
 - Select the folder containing the extension
 
 ## Issues
 
-There are no known issues at this time. Please let us know: [issue tracker](github.com/rmezajr/video-expand/issues).
+There are no known issues at this time. Please let us know: [issue tracker](://github.com/rmezajr/video-expand/issues).
 
 ## License
 
-[MIT](opensource.org/licenses/MIT)
+[MIT](://opensource.org/licenses/MIT)
