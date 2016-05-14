@@ -12,7 +12,7 @@ Go to [http://chrome.google.com/webstore/detail/video-expand/](https://chrome.go
 
 To access development releases, simply download or clone this code and load as an unpacked extension.
 
-Source Code: [://github.com/rmezajr/video-expand](github.com/rmezajr/video-expand)
+Source Code: [github.com/rmezajr/video-expand](https://github.com/rmezajr/video-expand)
 
 ## Install from Source
 
@@ -24,8 +24,8 @@ Source Code: [://github.com/rmezajr/video-expand](github.com/rmezajr/video-expan
 
 ## Issues
 
-There are no known issues at this time. Please let us know: [issue tracker](://github.com/rmezajr/video-expand/issues).
+There are no known issues at this time. Please let us know: [issue tracker](https://github.com/rmezajr/video-expand/issues).
 
 ## License
 
-[MIT](://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
